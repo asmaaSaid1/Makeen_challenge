@@ -4,12 +4,6 @@ Created on Sat May 20 22:13:18 2023
 
 @author: Asma
 """
-
-
-
-
-
-
 import openai
 openai.api_key = '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'
 messages = [ {"role": "system", "content":
